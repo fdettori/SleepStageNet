@@ -28,29 +28,17 @@ This project automates the process using **deep learning models trained on raw o
 
 .
 ├── data/                     # Raw and processed data (not included)
-
 ├── notebooks/                # Exploratory and preprocessing notebooks
-
 ├── src/
-
 │   ├── data_preprocessing/   # EEG/ECG loading, filtering, segmentation
-
 │   ├── models/               # Model architectures (CNN, LSTM, etc.)
-
 │   ├── training/             # Training loop, loss functions, metrics
-
 │   ├── evaluation/           # Model evaluation and visualization
-
 │   └── utils/                # Utility functions
-
 ├── configs/                  # Training configuration files (YAML/JSON)
-
 ├── results/                  # Saved models, logs, and figures
-
 ├── requirements.txt
-
 ├── README.md
-
 └── LICENSE
 
 ---
