@@ -26,6 +26,7 @@ This project automates the process using **deep learning models trained on raw o
 
 ## Project Structure
 
+```text
 .
 ├── data/                     # Raw and processed data (not included)
 ├── notebooks/                # Exploratory and preprocessing notebooks
@@ -40,6 +41,7 @@ This project automates the process using **deep learning models trained on raw o
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 ---
 
